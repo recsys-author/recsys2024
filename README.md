@@ -1,3 +1,1 @@
-This is an anonymized repository for the RecSys 2024 short paper submission 18, "MAWI Rec: Leveraging Severe Weather Data in Recommendation".
-
-We include the severe weather dataset as severe_weather_dataset.csv along with code to process the dataset in ProcessDataset.ipynb.
+This is an anonymized repository for anonymous peer review of the RecSys 2024 submission, "MAWI Rec: Leveraging Severe Weather Data in Recommendation". For the non-anonymized repository, please see https://github.com/brendanduncan/recsys2024.
